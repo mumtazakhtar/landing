@@ -1,0 +1,8 @@
+.container{
+  width: 80vw;
+  margin: 0 auto;
+}
+.header {
+  color: white;
+  font-size: 60px;
+}

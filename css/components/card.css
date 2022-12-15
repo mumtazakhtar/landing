@@ -1,0 +1,28 @@
+.card{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+
+}
+
+.card-works img{
+  width: 200px;
+  height: 200px;
+
+}
+.card-works{
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230 230 230);
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+  color: rgb(142, 178, 218);
+}
+.card-works h4 {
+  color:rgb(17, 116, 191)
+}
+.work h1{
+  text-align: center;
+}

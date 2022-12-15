@@ -1,0 +1,22 @@
+.banner{
+  background: url('../../images/banner.jpg');
+  /* width: 100vw;
+  height: 45vw; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  color: rgb(37, 79, 194);
+  font-size: 60px;
+  font-family: 'Recursive', sans-serif;
+
+}
+.banner p {
+  font-size: 30px;
+  color: rgb(188, 192, 199);
+}

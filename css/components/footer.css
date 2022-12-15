@@ -1,0 +1,13 @@
+.footer {
+  background-color: black;
+  color: grey;
+  padding: 50px;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 20px;
+}
+.footer li {
+    list-style-type: none;
+    display: inline-block;
+}
